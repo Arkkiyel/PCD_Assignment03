@@ -2,6 +2,9 @@
 
 Tugas ini mengimplementasikan metode segmentasi **region growing** dan operasi **morfologi** (erosi, dilasi, opening, closing), lalu membandingkan hasil segmentasi sebelum dan sesudah morfologi diterapkan.
 
+Laporan / Report: `PCD Assignment 03.pdf` \
+Dataset yang digunakan: `data_citra/`
+
 ## Notebook
 
 Link Google Colab: [Here](https://colab.research.google.com/drive/1LGddozSi-agYRid2q07LzzJ4Th98IdK_?usp=sharing)
